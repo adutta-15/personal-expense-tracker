@@ -1,4 +1,4 @@
-Personal Expense Tracker
+<img width="1917" height="987" alt="image" src="https://github.com/user-attachments/assets/b6e9f095-5102-41b8-b8d1-2a7e7bcf5552" />Personal Expense Tracker
 
 A simple web-based expense tracking application built using Python, Flask, and SQLite.
 
@@ -12,6 +12,10 @@ Features
 - Track monthly expenses.
 - View category-wise spending breakdown.
 - Input validation to prevent invalid expense entries.
+
+  <img width="1917" height="987" alt="image" src="https://github.com/user-attachments/assets/9e989773-6599-4fb6-b553-a59a49851a5b" />
+  
+
 
 Technologies Used
 
