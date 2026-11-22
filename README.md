@@ -1,4 +1,4 @@
-<img width="1917" height="987" alt="image" src="https://github.com/user-attachments/assets/b6e9f095-5102-41b8-b8d1-2a7e7bcf5552" />Personal Expense Tracker
+PERSONAL EXPENSE TRACKER
 
 A simple web-based expense tracking application built using Python, Flask, and SQLite.
 
